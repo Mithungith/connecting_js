@@ -1,0 +1,23 @@
+body {
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.changer {
+    background-color:red;
+    width:25rem;
+    height:25rem;
+    border-radius:50%;
+}
+.shower{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+h1{
+    font-size: 3rem;
+}
